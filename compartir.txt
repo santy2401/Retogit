@@ -1,16 +1,13 @@
-HEAD
-feature/textoA
+
 yo Rafael escribí esta lienea en branch A
 yo santiago edite esta linea en la branch A
 
 yo santiago escribi esta linea en branch uv 
 yo Rafael edite esta linea en la branch b
-feature/textob
 
 yo santiago escribi esta linea en branch uv 
 yo Rafael edite esta linea en la branch b
 
 yo Rafael escribí esta lienea en branch A
 yo santiago edite esta linea en la branch A
-feature/textoA
-main
+
